@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of Massachusetts Dartmouth"        # brief name of the institution that hosts the workshop without address (e.g., "University of Massachusetts Dartmouth")
-address: "Room 128, Claire T. Carney Library, 285 Old Westport Rd., Dartmouth, MA"      # full street address of workshop (e.g., "Room 128, Claire T. Carney Library, 285 Old Westport Rd., Dartmouth, MA"), videoconferencing URL, or 'online'
+address: "Room 225, Claire T. Carney Library, 285 Old Westport Rd., Dartmouth, MA"      # full street address of workshop (e.g., "Room 128, Claire T. Carney Library, 285 Old Westport Rd., Dartmouth, MA"), videoconferencing URL, or 'online'
 country: "USA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "41.633331"        # decimal latitude of workshop venue (use https://www.latlong.net/)
