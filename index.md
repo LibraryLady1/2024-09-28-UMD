@@ -84,6 +84,8 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
+<p>Etherpad: <a href="https://pad.carpentries.org/2024-09-28-umd">https://pad.carpentries.org/2024-09-28-umd</a></p>
+
 {% comment %}
 INTRODUCTION
 
